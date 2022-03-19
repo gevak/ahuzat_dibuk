@@ -1,0 +1,8 @@
+bs4
+requests
+pandas
+pyarrow
+seaborn
+python-bidi
+matplotlib
+google-cloud-storage
